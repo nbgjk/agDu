@@ -1,6 +1,6 @@
 ---
-title: "A Water Treatment Company"
-subtitle: Removing pollutants from waste water
+title: ""
+subtitle: 
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why RO Water Solution?
